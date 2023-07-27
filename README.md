@@ -28,6 +28,10 @@ Email : zzcjob397@gmail.com
 
 ![home](/img/home.png)
 
+### Post
+
+![POST](/img/post.png)
+
 ##
 
 · Developed the Front-End and User Interface using JavaScript, ES6, React.js and Redux
